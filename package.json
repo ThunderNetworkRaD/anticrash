@@ -1,6 +1,6 @@
 {
   "name": "@thundernetworkrad/anticrash",
-  "version": "2023.01.20",
+  "version": "2023.01.20.1",
   "description": "A free, easy to use anticrash",
   "main": "index.js",
   "repository": "https://github.com/ThunderNetworkRaD/anticrash",
