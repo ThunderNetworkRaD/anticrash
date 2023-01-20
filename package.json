@@ -1,7 +1,7 @@
 {
   "name": "@thundernetworkrad/anticrash",
   "version": "2023.01.20",
-  "description": "A Public Template for npm",
+  "description": "A free, easy to use anticrash",
   "main": "index.js",
   "repository": "https://github.com/ThunderNetworkRaD/anticrash",
   "author": "ThunderNetworkRaD | Killer Boss Original",
