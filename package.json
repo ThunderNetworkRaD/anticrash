@@ -1,10 +1,13 @@
 {
   "name": "@thundernetworkrad/anticrash",
-  "version": "0.0.1",
+  "version": "2023.01.20",
   "description": "A Public Template for npm",
   "main": "index.js",
   "repository": "https://github.com/ThunderNetworkRaD/template-npm-packages",
   "author": "ThunderNetworkRaD | Killer Boss Original",
   "license": "Mozilla Public License 2.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@thundernetworkrad/colors": "^2023.1.10"
+  }
 }
