@@ -3,7 +3,7 @@
   "version": "2023.01.20",
   "description": "A Public Template for npm",
   "main": "index.js",
-  "repository": "https://github.com/ThunderNetworkRaD/template-npm-packages",
+  "repository": "https://github.com/ThunderNetworkRaD/anticrash",
   "author": "ThunderNetworkRaD | Killer Boss Original",
   "license": "Mozilla Public License 2.0",
   "private": false,
